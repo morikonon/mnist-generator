@@ -1,0 +1,8 @@
+fastapi
+pydantic
+
+torch
+torchvision
+numpy
+pandas 
+matplotlib
