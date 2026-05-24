@@ -2,4 +2,3 @@
 
 Trained Diffusion Transformer for generating MNIST numbers with Flow Matching algorithm.
 
-# mnist-generator
