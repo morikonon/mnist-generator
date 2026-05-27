@@ -8,7 +8,7 @@ Trained Diffusion Transformer for generating MNIST numbers with Flow Matching al
 
 # How to run
 
-bash ```
+```bash
 
 git clone https://github.com/morikonon/mnist-generator.git
 
