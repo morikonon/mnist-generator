@@ -11,6 +11,7 @@ Trained Diffusion Transformer for generating MNIST numbers with Flow Matching al
 ```bash
 
 git clone https://github.com/morikonon/mnist-generator.git
+cd mnist-generator
 
 python3 -m venv venv
 source venv/bin/activate
